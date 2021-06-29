@@ -1,5 +1,9 @@
 This is the first line Dev A
 this is second line by Dev B
 tjis is thrid line by DevA
+<<<<<<< HEAD
 this is fourth line by devB
 this is fifth line by DevA
+=======
+this is  fourth line by DevB
+>>>>>>> e9dc4c74e1c8acee24e3fb6c59ad4c6065b4b24d
